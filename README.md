@@ -2,7 +2,7 @@
 
 This is an Android application that manages a list of phones.
 
-#Usage
+## Usage
 
 - Run the application on an Android emulator or physical device.
 - The main screen of the application will display a list of phones.
